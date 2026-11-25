@@ -1,0 +1,6 @@
+{
+  "name": "Krono Atelier",
+  "description": "Architectural objects storefront and product recommendation engine built with Hash Tables, Max-Heaps, Co-Purchase Graphs, Sorting, Binary Search, and Set Algebra.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
